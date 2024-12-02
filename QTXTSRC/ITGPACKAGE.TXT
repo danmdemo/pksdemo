@@ -1,0 +1,13 @@
+lib cuitg1obj cuitg1dep {
+       *pgm
+       *srvpgm
+       *msgf
+       *cmd
+}
+file cuitg1obj cuitg1dep {
+           *PF
+           *LF
+}
+sql dmr1intobj dmr1intdep {
+          *TABLE
+          }
