@@ -20,7 +20,7 @@
      C                   eval      MsgDta = 'There has been an major error'
      C                   callp     SendEscMsg ('HWD0003':
      C                               'HWMSGS    *LIBL':
-     C* This is a comment for Eradani RDi demonstration test
+     C* This is a comment for Eradani RDi demonstration test on 12-2
      C* Code for new ITEM Source field
      C* This is some new code for demo
      C* Adding some fields
