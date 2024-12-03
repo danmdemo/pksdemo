@@ -23,7 +23,7 @@
      C* This is a comment for Eradani RDi demonstration test on 12-2
      C* Code for new ITEM Source field
      C* This is some new code for demo on 12-2
-     C* Adding some fields
+     C* Adding some field
      C* Increased size of Customer fields
      C* Decreased size of Items fields
      C* We need some more space in some fields in our item and customer file
